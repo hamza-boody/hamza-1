@@ -43,7 +43,7 @@ break;
 
 
 default: 
-         document.write("YOU HAVE AN ERROR IN YOUR CALCULATIONS")
+         document.write("Please enter th name of fruit")
 
 
 
